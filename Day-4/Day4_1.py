@@ -25,4 +25,3 @@ print(l2)
 value = l2.index(98)
 print(value)
 
-# 2:06:28
