@@ -10,7 +10,7 @@ print(s,type(s))
 #2.remove()
 s.remove(None)
 print(s,type(s))
-s.remove("Css")
+# s.remove("Css")
 print(s,type(s))  #Raises an error  
 
 #3.copy()
@@ -20,3 +20,5 @@ print(s,type(s))
 #4.clear()
 s.clear()
 print(s,type(s))
+
+print(len(s))
