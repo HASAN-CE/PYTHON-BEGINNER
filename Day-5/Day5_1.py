@@ -20,3 +20,7 @@ print(Dict.keys())
 
 #3).values()
 print(Dict.values())
+
+#4).update().
+Dict.update({"Name":"Js"})
+print(Dict)
