@@ -8,5 +8,9 @@ marks = {
 print(marks)
 print(type(marks))
 
+#To Create a Empty Dictionary
+e = {}
+print(type(e))
+
 #From this we can  access the specific value of the dictionary while giving that particular dictionary key
 print(marks["Lists"])
