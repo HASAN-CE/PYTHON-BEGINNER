@@ -28,3 +28,10 @@ print(Dict)
 
 #5).get()
 print(Dict.get(1991))
+
+print(Dict.get("Name1")) #Prints None value
+print(Dict["Name1"]) #Returns An Error 
+
+#6).clear()
+#7).copy()
+#8).popitem()
