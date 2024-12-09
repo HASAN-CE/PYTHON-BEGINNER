@@ -7,5 +7,5 @@ print(joke)
 
 #Simple Python Code which is easily readable 
 print("HELLO THERE")
-a=10
+a = 10
 print("VALUE OF A IS: ", a)
