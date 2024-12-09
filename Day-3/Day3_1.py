@@ -2,7 +2,7 @@
 
 a = '''pYTHON PROGRAM'''
 words = ["PYTHON","PROGRAMMING"]
-b = "I AM GOOD AT PROGRAMING AND BOTH HACKING"
+b = "I AM GOOD AT PROGRAMING AND HACKING"
 
 print(len(a))
 print(a.endswith("MING"))
