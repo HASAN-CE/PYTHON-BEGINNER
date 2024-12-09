@@ -22,6 +22,7 @@ tup_2 = (1,2,3,4)
 res = tup_1 + tup_2
 print(res) 
 
+#Different Tuple Methods
 #min()
 #max()
 #sum()
