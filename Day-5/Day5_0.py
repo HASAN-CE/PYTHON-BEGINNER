@@ -7,4 +7,6 @@ marks = {
 }
 print(marks)
 print(type(marks))
+
+#From this we can  access the specific value of the dictionary while giving that particular dictionary key
 print(marks["Lists"])
