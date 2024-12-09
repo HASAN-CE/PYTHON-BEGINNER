@@ -1,8 +1,8 @@
 #String 
 # String Are Immutable
-a = "HASAN"
-b = '''HASAN'''
-c =  'HASAN'
+a = "PYTHON"
+b = '''PYTHON'''
+c =  'PYTHON'
 
 # name =  len(a)   #len(var_name) give the length of the string 
 # print(name)

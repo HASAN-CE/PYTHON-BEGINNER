@@ -6,7 +6,7 @@
 
 a = 10       #a is an integer
 b = 25.2     #b is an float
-c = "HASAN"  #c is an String 
+c = "PYTHON"  #c is an String 
 d = True     #d is an boolean
 e = None     #e is an none
 #type() function is used to check the datatype of a variable

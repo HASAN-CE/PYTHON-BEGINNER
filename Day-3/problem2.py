@@ -10,5 +10,5 @@ Dear <|Name|>,
 You are selected!
 <|Date|>
 '''
-print(letter.replace("<|Name|>","HASAN").replace("<|Date|>","12-5-25"))
+print(letter.replace("<|Name|>","ROHAN").replace("<|Date|>","12-5-25"))
 #here we have done chainig of 'string.replace'

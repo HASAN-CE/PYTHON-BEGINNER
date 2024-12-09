@@ -13,6 +13,6 @@ b = float(a)
 # bt = type(b)
 print(b)
 
-# c = "HASAN"
+# c = "PYTHON"
 # sc = int(a)
 # print(sc)  #this is invalid conversion

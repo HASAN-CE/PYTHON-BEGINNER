@@ -1,12 +1,12 @@
 #String Functions
 
-a = '''hASAN.S.RANGOONI'''
-words = ["HASAN","RANGOONI"]
+a = '''pYTHON PROGRAM'''
+words = ["PYTHON","PROGRAMMING"]
 b = "I AM GOOD AT PROGRAMING AND BOTH HACKING"
 
 print(len(a))
-print(a.endswith("OONI"))
-print(a.startswith("HASA"))
+print(a.endswith("MING"))
+print(a.startswith("PYTHO"))
 print(a.count("A"))
 print(a.title())    
 print(a.capitalize())
