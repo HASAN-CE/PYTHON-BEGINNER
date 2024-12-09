@@ -5,3 +5,4 @@ marks = {
     "Harish" : 98
 }
 print(marks)
+print(type(marks))
