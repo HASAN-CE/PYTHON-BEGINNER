@@ -22,5 +22,9 @@ print(Dict.keys())
 print(Dict.values())
 
 #4).update().
-Dict.update({"Name":"Js"})
+Dict.update({"Name":"Js" , "Editor" : "Vs Code"})
 print(Dict)
+#here there is one key-value pair that is initially not present in dictionary so now it will add this key value pair in the dictionary
+
+#5).get()
+print(Dict.get(1991))
