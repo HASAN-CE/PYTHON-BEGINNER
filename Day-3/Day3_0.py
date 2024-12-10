@@ -4,7 +4,7 @@ a = "PYTHON"
 b = '''PYTHON'''
 c =  'PYTHON'
 
-# name =  len(a)   #len(var_name) give the length of the string 
+# name = len(a)   #len(var_name) give the length of the string 
 # print(name)
 
 # name_Short = a[0:2]   #travel only 0-1 but not '2'
