@@ -10,9 +10,10 @@ at = type(a)
 print(at)
 
 b = float(a)
-# bt = type(b)
 print(b)
+bt = type(b)
+print(bt)
 
-# c = "PYTHON"
-# sc = int(a)
-# print(sc)  #this is invalid conversion
+c = "PYTHON"
+sc = int(a)
+print(sc)  #this is invalid conversion
