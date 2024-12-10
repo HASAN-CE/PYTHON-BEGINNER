@@ -16,7 +16,7 @@ print(In)
 print(len(a))
 
 #concatiton of a list of tuples
-#As Tuple are immutable it creates whole new tuple doenot change the existing tuple
+#As Tuple are immutable it creates whole new tuple doesnot change the existing tuple
 tup_1 = ("PYTHON","JS","RUBY","SHELL","RUST")
 tup_2 = (1,2,3,4)
 res = tup_1 + tup_2
