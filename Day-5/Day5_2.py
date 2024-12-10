@@ -1,7 +1,7 @@
 #Sets
 #For creating empty set dont use like this e = {} as it will create a empty Dictionary
 s = set()
-
+print(type(s))
 #Set Example 
 #in Set if repeat the element it will take only once 
 s1 = set()
