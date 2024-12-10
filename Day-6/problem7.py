@@ -1,6 +1,7 @@
-Language = input('Enter your favorite language: ')
+Post = input('Enter the post: ')
 
-if Language == 'Python':
-    print('Python is a great language!')
+if "Cyber" in Post:
+    print('Post is taking about Cyber')
 else: 
-    print('You Lie')
+    print('Post is not  taking about Cyber')
+    
