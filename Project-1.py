@@ -25,14 +25,14 @@ print(library[Book_name])
 print("Enter the New Book DETAILS: ")
 New_book = input("NEW BOOK: ")
 New_Author = input("NEW AUTHOR: ") 
-New_Year =  int(input("New Year: "))
+New_Year =  int(input("New YEAR: "))
 library.update({New_book:(New_Author,New_Year)})
 print(library)
 
 # Update the details of an existing book.
 Update_book = input("Update BOOK: ")
 Update_Author = input("Update AUTHOR: ") 
-Update_Year =  int(input("Update Year: "))
+Update_Year =  int(input("Update YEAR: "))
 library.update({Update_book:(Update_Author,Update_Year)})
 print(library)
 
