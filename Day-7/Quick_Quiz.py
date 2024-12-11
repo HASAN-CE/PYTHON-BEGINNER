@@ -11,7 +11,13 @@
 
 list = [1,45,65,'Python','Js','Go','Shell',True,None,1235,65]
 
+print('printing list with len method\n')
 l = 0
 while(l<len(list)):
     print(list[l])
     l+=1
+
+print('\nPrinting without len method...')
+#Without using len method
+for i in list:
+    print(i)
