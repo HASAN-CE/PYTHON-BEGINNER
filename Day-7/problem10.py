@@ -5,7 +5,6 @@ n = int(input('Enter the number: '))
 for i in range(1,16):
     print(f'{n} x {16-i} = {n*(16-i)}')
     
-    
 
 '''
 1 15
