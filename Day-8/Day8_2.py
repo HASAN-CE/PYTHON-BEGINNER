@@ -9,6 +9,7 @@ goodDay('Payal')
 goodDay('Harry')
 goodDay('Rohan')
 
+
 #Double argument
 def Greet(name,end):
     print(f'Dear, {name} {end}')

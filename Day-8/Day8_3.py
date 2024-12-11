@@ -1,6 +1,5 @@
 #Default Arguments
-
-# Since the ending argument is not changing and remains the same, we can set it as a default argument
+# Since the end argument is not changing and remains the same, we can set it as a default argument
 def Greet(name,end):
     print(f'Dear, {name} {end}')
     
@@ -9,6 +8,7 @@ Greet('Payal','Thank you for Coming')
 Greet('Harry','Thank you for Coming')
 
 
+#Default Arguments Example
 def Greet1(name,end='Thanks for coming'):
     print(f'Dear, {name} {end}')
     
