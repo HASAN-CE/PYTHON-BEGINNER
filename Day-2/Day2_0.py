@@ -23,7 +23,7 @@ print(c,"is",cx)
 print(d,"is",dx)
 print(e,"is",ex)
 
-#here a,b,c,,e are like identifiers 
+#here a,b,c,d,e are like identifiers 
 #in a variable name there cannot be WhiteSpace
 
 
