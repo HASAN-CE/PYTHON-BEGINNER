@@ -1,3 +1,3 @@
-a =  input("ENTER YOUR NAME: ")
-print(f"GOOD AFTERNOON",{a})
-#here we have use the 'f' String to dispaly the variable in print statements
+a = input("ENTER YOUR NAME: ")
+print(f"GOOD AFTERNOON, {a}") 
+# Here we use the 'f' string to display the variable in the print statement
