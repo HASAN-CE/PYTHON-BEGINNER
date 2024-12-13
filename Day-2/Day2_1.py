@@ -1,10 +1,9 @@
 #Type Casting
 
-# This are the functions for TypeCasting
+#Below are a few examples of functions used for typecasting
 # int()
 # float()
 # str()
-
 a = "312.25"
 at = type(a)
 print(at)
