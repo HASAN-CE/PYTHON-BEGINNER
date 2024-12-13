@@ -1,9 +1,11 @@
-#Lists 
-#As Lists are Mutable so here we are able to change the 0th index element 
-list1 = ["Helper","Program","Cyber",56,False,None,468.5,"This"]
+# Lists
+# Since lists are mutable, we can change the element at index 0
+list1 = ["Helper", "Program", "Cyber", 56, False, None, 468.5, "This"]
 print(list1)
 
-#here it will change the existing list but not create the new list
+# Access the element at the 0th index
 print(list1[0])
-list1[0]="Hacker"
-print(list1)  
+
+# Change the existing list by modifying the 0th index element
+list1[0] = "Hacker"
+print(list1)

@@ -1,5 +1,7 @@
+# Creating a list to store student marks
 marks = []
 
+# Prompting the user to input marks for each student
 M1 = int(input("ENTER MARKS FOR 1 STUDENT: "))
 marks.append(M1)
 
@@ -18,5 +20,6 @@ marks.append(M5)
 M6 = int(input("ENTER MARKS FOR 6 STUDENT: "))
 marks.append(M6)
 
+# Sort the list of marks in ascending order
 marks.sort()
 print(marks)

@@ -1,6 +1,6 @@
 #Tuples Methods
 
-a = (38,"MANAV",18,True,None,58,98,56,85,58,25,35,58,"SHAH")
+a = (38,"MANAV",18,True,None,58,98,56,85,58,25,35,58,"SHAH","BROTHER")
 print(a)
 
 #count() method 

@@ -1,17 +1,16 @@
-#Tuple
+# Tuple
+# A tuple is an immutable data type in Python
 
-# A Tuple is an immutable data type in Python
-
-a = (1,2,3,4,5) #Tuple are enclosed in parentheses
+a = (1, 2, 3, 4, 5)  # Tuples are enclosed in parentheses
 print(type(a))
 
-#empty tuple
+# Empty tuple
 b = ()
 
-#tuple with one element
+# Tuple with one element
 c = (1,)
-print(type(c),c)
+print(type(c), c)
 
-#tuple with different data types
-d =  (1,6181,"PYTHON",True,None)
-print(d) 
+# Tuple with different data types
+d = (1, 6181, "PYTHON", True, None)
+print(d)
