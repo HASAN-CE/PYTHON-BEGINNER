@@ -1,7 +1,7 @@
 #Topic-Introduction to Python
 import pyjokes
 
-#here pyjokes is a module of the python which is installed with the help of the "Pip" Command
+#here pyjokes is a module of the python which is installed with the help of the "pip" Command
 joke = pyjokes.get_joke()
 print(joke)
 
