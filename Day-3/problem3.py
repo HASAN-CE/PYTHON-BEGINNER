@@ -1,3 +1,3 @@
-name = "PYTHON  PROGRAMING"
+name = "PYTHON  PROGRAMING  "
 print(name.find("  "))
 

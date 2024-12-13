@@ -1,3 +1,3 @@
-name1 = "PYTHON P  PROGRAMING"
-name2 = name1.replace("  "," ")
-print(name2) #as string are immutable we have store the name in different variables with  the method 'replace' 
+name1 = "PYTHON P  PROGRAMMING"
+name2 = name1.replace("  ", " ")  # Strings are immutable, so we store the modified string in a new variable
+print(name2)
