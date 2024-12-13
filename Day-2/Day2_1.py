@@ -4,6 +4,7 @@
 # int()
 # float()
 # str()
+
 a = "312.25"
 at = type(a)
 print(at)
