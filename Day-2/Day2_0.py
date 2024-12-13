@@ -1,4 +1,4 @@
-#Topic-Variables And DataTypes
+#Variables And DataTypes
 
 #variables are like a container to store the values
 
