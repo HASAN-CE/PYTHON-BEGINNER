@@ -1,22 +1,23 @@
-#Functions 
-#Here if we have to do the below task again and again the code snippet repetation make code more complex and longer to avoid this situation function comes at rescue 
+# This code snippet demonstrates the use of functions to avoid code repetition.
 
-n1 = int(input('Enter First Number: '))
-n2 = int(input('Enter Second Number: '))
-n3 = int(input('Enter Third Number: '))
+# Directly taking inputs and performing an addition
+n1 = int(input('Enter First Number: '))  # Input for the first number
+n2 = int(input('Enter Second Number: ')) # Input for the second number
+n3 = int(input('Enter Third Number: '))  # Input for the third number
 
-total = n1+n2+n3
-print(total)
+total = n1 + n2 + n3  # Sum of the three numbers
+print(total)  # Displaying the total
 
-#To declare function use 'def' keyword
-#Function definition
+# To declare a function, use the 'def' keyword.
+# Function definition
 def add_number():
-    n1 = int(input('Enter First Number: '))
-    n2 = int(input('Enter Second Number: '))
-    n3 = int(input('Enter Third Number: '))
+    # Inside the function, taking inputs and performing an addition
+    n1 = int(input('Enter First Number: '))  # Input for the first number
+    n2 = int(input('Enter Second Number: ')) # Input for the second number
+    n3 = int(input('Enter Third Number: '))  # Input for the third number
 
-    total = n1+n2+n3
-    print("Total of the above number: ",total)
+    total = n1 + n2 + n3  # Sum of the three numbers
+    print("Total of the above numbers: ", total)  # Displaying the total
 
-#Function call
-add_number()
+# Function call
+add_number()  # Calling the function to execute the code inside
