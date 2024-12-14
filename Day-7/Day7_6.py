@@ -1,22 +1,21 @@
-#Countine and Break and Pass Statement
+# Countine, Break, and Pass Statements
 
-#BreakStatement
-for i in range(1,101):
-    if (i==37):
-        break #Exit the loop
+# Break Statement
+for i in range(1, 101):
+    if (i == 37):
+        break  # Exit the loop
     print(i)
-    
 
-#ContinueStatement
-for i in range(1,101):
-    if (i%2!=0):
-        continue #Skip this(current) iteration
+# Continue Statement
+for i in range(1, 101):
+    if (i % 2 != 0):
+        continue  # Skip this (current) iteration
     print(i)
-    
-#PassStatement
+
+# Pass Statement
 i = 0
-for i in range(1,101):
-    pass #Not feeling like it today, let's look at it tomorrow.
+for i in range(1, 101):
+    pass  # Not feeling like it today, let's look at it tomorrow.
 
-while (i<45):
+while (i < 45):
     print(i)

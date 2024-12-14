@@ -1,10 +1,11 @@
-#While Loop
-a = 1
-while (a<11):
-    print(a)
-    a+=1  #a=a+1 
+# While Loop
+a = 1  # Initialize a counter
 
-#a=a+1, #a=a+1 is the condition
+while a < 11:  # Loop while the condition is true
+    print(a)  # Print the current value of a
+    a += 1  # Increment a by 1
+
+# a = a + 1, # a = a + 1 is the condition
 
 '''
 Output:

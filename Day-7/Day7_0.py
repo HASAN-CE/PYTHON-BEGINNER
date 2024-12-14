@@ -1,5 +1,6 @@
-#Different Loops in Python
-#Suppose we have to print the numbers from 1 to 10
+# Different Loops in Python
+# Suppose we have to print the numbers from 1 to 10 directly
+
 print(1)
 print(2)
 print(3)
@@ -11,8 +12,8 @@ print(8)
 print(9)
 print(10)
 
+print('\nPrint 1-10 with the help of loop\n')  # Section break
 
-print('\nPrint 1-10 with the help of loop\n')
-#Now printing  the numbers from 1 to 10 using Loops
-for i in range(1,11):
-    print(i)
+# Now printing the numbers from 1 to 10 using a loop
+for i in range(1, 11):  # Loop from 1 to 10
+    print(i)  # Print each number in the range
